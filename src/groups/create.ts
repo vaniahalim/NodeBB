@@ -144,3 +144,4 @@ export = function (Groups: GroupsStatic) {
         }
     };
 }
+// with help from ChatGPT
